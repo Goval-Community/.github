@@ -6,5 +6,6 @@
 </div>
 
 ## Current projects:
+- [homeval](https://github.com/Goval-Community/homeval) - A rust + js goval server
 - [govaldocs](https://github.com/Goval-Community/govaldocs) - Documentation for the goval protocol and its services.
 - [pygoval](https://github.com/Goval-Community/pygoval) - A python goval client.
